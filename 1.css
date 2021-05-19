@@ -1,0 +1,50 @@
+
+#hero {
+  width: 100%;
+  margin-top:60px;
+  height: 100%;
+  background:url("bg.png") center top no-repeat;
+  background-size: cover;
+}
+
+.h{
+	background-color:black;
+	color:white;
+	border-color:black;
+	min-height:70px;
+}
+
+.ih{
+	width:80%;
+	margin:auto;
+	
+}
+
+.logo{
+	float:left;
+	height:50px;
+	padding:15px;
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+}
+
+.link{
+	float:right;
+	font-size:14px;
+	height:40px;
+	padding:15px 15px;
+	font-size:16px;
+	font-weight:bold;
+	color:#fff;
+}
+
+ul li{
+	list-style-type:none;
+	display:inline;
+	
+}
+
+
+
+ 
