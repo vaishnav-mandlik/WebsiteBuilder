@@ -1,6 +1,6 @@
 # Website Builder
 
-Our aim is to design and create Online website builders are designed to be very easy to use, allowing anyone – beginners or experienced designers – to create an entire website within minutes using a drag-and- drop editor.
+This project aim is to design and create Online website builders are designed to be very easy to use, allowing anyone – beginners or experienced designers – to create an entire website within minutes using a drag-and- drop editor.
 
 ## DEMO
 
